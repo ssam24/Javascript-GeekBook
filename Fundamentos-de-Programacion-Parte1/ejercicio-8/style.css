@@ -1,0 +1,16 @@
+.button1 {
+    color: blue;
+    background-color: lightpink;
+    padding: 5%;
+    border-radius: 1px solid black;
+
+}
+.button2{
+    color: blue;
+    background-color: lightpink;
+    padding: 5%;
+    border-radius: 1px solid black;
+}
+.opacity {
+    opacity: 0.5;
+}
